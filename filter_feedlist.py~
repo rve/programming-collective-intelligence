@@ -1,0 +1,6 @@
+if __name__ == '__main__':
+    feedlist = [line for line in file('feedlist.txt')]
+    for feed in feedlist:
+         d = feedparser.parse(line)
+         if title not in d['feed']:
+             print 'refused\t %s' % line

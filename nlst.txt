@@ -1,0 +1,3 @@
+http://blogoscoped.com/rss.xml
+http://radar.oreilly.com/index.rdf
+http://gizmodo.com/index.xml
